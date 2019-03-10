@@ -1,0 +1,7 @@
+C:\Users\My\source\repos\Сетевой график\Сетевой график\bin\Debug\Сетевой график.exe.config
+C:\Users\My\source\repos\Сетевой график\Сетевой график\bin\Debug\Сетевой график.exe
+C:\Users\My\source\repos\Сетевой график\Сетевой график\bin\Debug\Сетевой график.pdb
+C:\Users\My\source\repos\Сетевой график\Сетевой график\obj\Debug\Сетевой график.csprojAssemblyReference.cache
+C:\Users\My\source\repos\Сетевой график\Сетевой график\obj\Debug\Сетевой график.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\Сетевой график\Сетевой график\obj\Debug\Сетевой график.exe
+C:\Users\My\source\repos\Сетевой график\Сетевой график\obj\Debug\Сетевой график.pdb
